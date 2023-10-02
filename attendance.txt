@@ -29,4 +29,4 @@ X Roberts
 [] Thapa
 [] Thomas
 [] Wood
-[] Tamang
+[X] Tamang
